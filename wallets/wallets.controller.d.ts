@@ -13,4 +13,6 @@ export class WalletsController {
     return `Get wallet with ID ${id}`;
   }
 
-
+  @Post()
+  create(@Body() walletDto: WalletDto): string {
+    //
