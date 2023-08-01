@@ -2,18 +2,6 @@
 
 XRPL Bridge is a powerful service that monitors wallets on the XRP Ledger, records payment transactions, and provides seamless wallet management. This service is designed to run on Node.js and optionally utilizes the NestJS framework. It operates on the XRPL Testnet.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [API Endpoints](#api-endpoints)
-6. [Testing](#testing)
-7. [Caching](#caching)
-8. [Assumptions](#assumptions)
-9. [Contributing](#contributing)
-10. [License](#license)
-
 ## Introduction
 
 XRPL Bridge is a service that allows you to monitor and manage digital wallets on the XRP Ledger. It provides the following features:
