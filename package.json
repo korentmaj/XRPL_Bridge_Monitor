@@ -1,0 +1,37 @@
+{
+  "name": "xrpl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maj Korent",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/common": "^10.1.3",
+    "@nestjs/core": "^10.1.3",
+    "@nestjs/platform-express": "^10.1.3",
+    "@nestjs/typeorm": "^10.0.0",
+    "cache-manager": "^5.2.3",
+    "mysql2": "^3.6.0",
+    "pg": "^8.11.2",
+    "pg-hstore": "^2.3.4",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.1",
+    "typeorm": "^0.3.17",
+    "xrpl": "^2.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korentmaj/XRPL_Bridge_Monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/korentmaj/XRPL_Bridge_Monitor/issues"
+  },
+  "homepage": "https://github.com/korentmaj/XRPL_Bridge_Monitor#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
